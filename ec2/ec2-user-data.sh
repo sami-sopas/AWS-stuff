@@ -2,6 +2,8 @@
 
 #Esta madre es para los datos de usuario que se usan al instanciar un EC2
 
+#Este codigo se ejecuta al iniciar la instancia, tipo ngOnInit()
+
 #Instalar httpd
 yum update -y
 yum install -y httpd
